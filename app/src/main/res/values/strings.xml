@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My FirstCare</string>
+    <string name="log_in">Log In</string>
+    <string name="mobile_number_email">MOBILE NUMBER / E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="error_message_please_enter_mobile_number_or_email">Please enter mobile number or email</string>
+    <string name="error_message_please_enter_valid_mobile_number_or_email">Please enter valid mobile number or email</string>
+    <string name="error_message_please_enter_password">Please enter password</string>
+    <string name="name_surname"><![CDATA[NAME & SURNAME]]></string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="your_position_work_responsible">YOUR POSITION / WORK / RESPONSIBLE</string>
+    <string name="general_hospital_name">GENERAL HOSPITAL NAME</string>
+    <string name="community_hospital_name">COMMUNITY HOSPITAL NAME</string>
+    <string name="village_hospital_name">VILLAGE HOSPITAL NAME</string>
+    <string name="welcome_username">Welcome, %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="error_message_please_register_first">Please register first</string>
+    <string name="error_message_incorrect_password">Incorrect password</string>
+    <string name="error_message_please_enter_name_and_surname">Please enter name and surname</string>
+    <string name="error_message_please_enter_email">Please enter email</string>
+    <string name="error_message_please_enter_valid_email">Please enter valid email</string>
+    <string name="error_message_please_enter_mobile_number">Please enter mobile number</string>
+    <string name="error_message_please_enter_valid_mobile_number">Please enter valid mobile number</string>
+    <string name="error_message_please_enter_confirm_password">Please enter confirm password</string>
+    <string name="error_message_confirm_password_does_not_match">Confirm password does not match</string>
+    <string name="error_message_please_enter_your_position_work_or_responsible">Please enter your position, work or responsible</string>
+    <string name="error_message_please_enter_general_hospital_name">Please enter general hospital name</string>
+    <string name="error_message_please_enter_community_hospital_name">Please enter community hospital name</string>
+    <string name="error_message_please_enter_village_hospital_name">Please enter village hospital name</string>
+</resources>
